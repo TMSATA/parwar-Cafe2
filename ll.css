@@ -270,7 +270,7 @@ span{
          
             width: 220px;
             height: 100px;
-            margin-left: 10px;
+            margin-left: 20px;
             margin-bottom: 10px;
     
         
@@ -279,7 +279,7 @@ span{
        
             width: 220px;
             height: 100px;
-            margin-left: 10px;
+            margin-left: 20px;
     
     
         }
@@ -287,7 +287,7 @@ span{
        
             width: 220px;
             height: 100px;
-            margin-left: 10px;
+            margin-left: 20px;
     
         }
         .e img{
@@ -327,13 +327,13 @@ span{
          .iconss{
             
             margin-top: 160px;
-            margin-left: 50PX;
+            margin-left: 60PX;
         }
         a{
             text-decoration: none;
         }
         .barz i{
-            margin-left: -35PX;
+            margin-left: -25PX;
             width: 190px;
             font-size: 30px;
             
