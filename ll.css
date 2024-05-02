@@ -1,0 +1,336 @@
+@import url('https://fonts.cdnfonts.com/css/mjdinar');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+                
+body{
+    background-color: #2b2b2b;
+ 
+      font-family: "Caveat", cursive;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    }
+      
+.logo img{
+    height:180px;
+	width:100%;
+}
+.logo{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,3%);
+    width:200px;
+	background:#a72e17;
+	border-radius:5px;
+	padding:5px;
+	border: 3px solid #c33d2b  ;
+}
+.contanat{
+    margin-top: -250px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    width: 550px;
+    height: 545px;
+    padding-top: 10px;
+
+}
+.contanat .e{
+    border: 5px solid #c33d2b ;
+    box-shadow:5px 5px 5px 5px #000 ;
+    width: 480px;
+    height: 150px;
+    margin: 10px 10px 10px 10px;
+    margin-left: 30px;
+    border-radius: 20PX;
+    margin-bottom: 20PX;
+
+
+}
+.contanat .k{
+    border: 5px solid #c33d2b ;
+    box-shadow:5px 5px 5px 5px #000 ;    
+    width: 480px;
+    height: 150px;
+    margin: 10px 10px 10px 10px;
+    margin-left: 30px;
+    border-radius: 20PX;
+    margin-bottom: 20PX;
+
+}
+.contanat .a{
+    border: 5px solid #c33d2b ;
+    box-shadow:5px 5px 5px 5px #000 ;    
+    width: 485px;
+    height: 150px;
+    margin: 10px 10px 10px 10px;
+    margin-left: 25px;
+    border-radius: 20PX;
+
+}
+.e img{
+    position: relative;
+   text-align: center;
+   height: 120px;
+   width: 200px;
+   margin-top: 10px;
+   margin-left: 15px;
+}
+.e h1{
+    color: #fff;
+    padding-top: 15px;
+    font-size: 50px;
+    text-align: center;
+}
+.k img{
+    position: relative;
+   text-align: center;
+   height: 150px;
+   width: 250px;
+   margin-top: -5px;
+}
+.k h1{
+    color: #fff;
+    padding-top: 15px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Abd Kerkuk;
+
+}
+.a img{
+    position: relative;
+   text-align: center;
+   height: 150px;
+   width: 250px;
+   margin-top: -5px;
+}
+.a h1{
+    color: #fff;
+    padding-top: 15px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Mj_Dinar', sans-serif;
+
+}
+
+.iconss{
+    
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,3%);
+    width: 350px;
+    height: 250px;
+    margin-top: 300px;
+    margin-left: 80px;
+    margin-bottom: -130px;
+}
+.iconss i{
+    color: #fff;
+    font-size: 30px;
+    border: 2px solid #fff;
+    background-color: #202020;
+    border-radius: 35px;
+    padding: 10px;
+    margin-left: 15px;
+    border: 5px solid #c33d2b ;
+    box-shadow:5px 5px 5px 5px #000 ;
+}
+.contanat a{
+    text-decoration: none;
+}
+.barz i{
+color: #fff;
+font-size: 40px;
+    
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-50%,3%);
+margin-left: -10px;
+border: 5px solid #c33d2b ;
+box-shadow:5px 5px 5px 5px #000 ;
+padding: 15px;
+border-radius: 20PX;
+
+}
+span{
+    
+    font-size: 50px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+@media  (max-width:1024px) {
+     
+
+
+    .contanat{
+        margin-top: -180px;
+
+
+        width: 450px;
+        height: 400px;
+
+    
+    }
+    .contanat .e{
+     
+        width: 380px;
+        height: 100px;
+
+    
+    }
+    .contanat .k{
+   
+        width: 380px;
+        height: 100px;
+
+    }
+    .contanat .a{
+   
+        width: 385px;
+        height: 100px;
+    }
+    .e img{
+
+       height: 60px;
+       width: 100px;
+
+    }
+    .e h1{
+        font-size: 30px;
+        margin-top: 10PX;
+        margin-left: 20PX;
+
+    }
+    .k img{
+
+       height: 80px;
+       width: 130px;
+    }
+    .k h1{
+        font-size: 30px;
+        margin-top: 10PX;
+        margin-left: 20PX;
+
+    
+    }
+    .a img{
+
+       height: 100px;
+       width: 130px;
+    }
+    .a h1{
+        font-size: 30px;
+        margin-top: 10PX;
+        margin-left: 20PX;
+
+    }
+    
+    .iconss{
+
+        width: 350px;
+        height: 250px;
+        margin-top: 240px;
+        margin-left: 80px;
+    }
+
+    .contanat a{
+        text-decoration: none;
+    }
+    .barz i{
+        margin-left: 10PX;
+    }
+    }
+
+    
+    @media (max-width:430px){
+            
+        .logo{
+            margin-left: 30PX;
+        }
+
+        .contanat{
+            margin-top: -150px;
+            width: 350px;
+            height: 380px;
+            margin-left: 20px;
+            margin-right: 5px;
+        
+        }
+        .contanat .e{
+         
+            width: 300px;
+            height: 100px;
+    
+        
+        }
+        .contanat .k{
+       
+            width: 300px;
+            height: 100px;
+    
+        }
+        .contanat .a{
+       
+            width: 300px;
+            height: 100px;
+            margin-left: 30px;
+        }
+        .e img{
+    
+           height: 60px;
+           width: 100px;
+    
+        }
+        .e h1{
+            font-size: 30px;
+            margin-top: 10PX;
+            margin-left: 20PX;
+
+        }
+        .k img{
+    
+           height: 80px;
+           width: 130px;
+        }
+        .k h1{
+            font-size: 30px;
+            margin-top: 10PX;
+            margin-left: 20PX;
+
+        }
+        .a img{
+
+            height: 100px;
+            width: 130px;
+         }
+         .a h1{
+            font-size: 30px;
+            margin-top: 10PX;
+            margin-left: 20PX;
+
+         }
+         .iconss{
+
+            margin-top: 210px;
+            margin-left: 120PX;
+        }
+        a{
+            text-decoration: none;
+        }
+        .barz i{
+            margin-left: 30PX;
+        }
+        
+
+    }
+    
