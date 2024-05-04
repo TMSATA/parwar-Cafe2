@@ -373,7 +373,7 @@ height: 300px;
     transform: translate(-50%,-50%);
     background-image: url("image/paa1.jpg");
     background-size: 100% 100%;
-    box-shadow: 1px 2px 10px 10px white;
+    box-shadow: 1px 2px 10px 10px ##c33d2b;
     animation: slider 20s infinite linear;
   
   }
